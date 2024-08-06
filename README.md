@@ -1,1 +1,1 @@
-# RK3568_Linux
+# RK356x_Linux
